@@ -60,6 +60,6 @@ Para ejecutar con **nodemon**: `nodemon --exec ts-node script.ts`
 
 ## JSON Formatter
 
-Extension for Chromium base browsers.
+Extensión para navegadores basados en Chromium.
 
 - [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
