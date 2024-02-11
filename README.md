@@ -64,3 +64,7 @@ Para ejecutar con **nodemon**: `nodemon --exec ts-node script.ts`
 Extensión para navegadores basados en Chromium.
 
 - [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+
+## JavaScript version
+
+- [Desafio3RamirezPB-JS](https://github.com/ianshalaga/Desafio3RamirezPB-JS)

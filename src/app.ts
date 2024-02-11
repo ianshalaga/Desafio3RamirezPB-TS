@@ -1,5 +1,4 @@
 // -------------- IMPORTS -------------- //
-import { type } from "os";
 import ProductManager from "./ProductManager";
 import { PATH } from "./utils/utils";
 import express, { Request, Response } from "express";
