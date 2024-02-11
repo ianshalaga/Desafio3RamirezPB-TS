@@ -56,6 +56,7 @@ Instalar:
 - `npm install --save-dev @types/node` (Definiciones de tipos de **TypeScript** para **Node.js**)
 
 Luego ejecutar el **script** con: `ts-node script.ts`.
+
 Para ejecutar con **nodemon**: `nodemon --exec ts-node script.ts`
 
 ## JSON Formatter
